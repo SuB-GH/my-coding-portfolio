@@ -1,6 +1,6 @@
 
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: white;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@
 
 
 h1 {text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(10, 37, 52);
     
 
@@ -30,7 +30,7 @@ header {
     top: 0;
     z-index: 9999;
     
-header img {}
+    header img {}
     height: 100px;
     flex: wrap;
 }
